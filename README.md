@@ -1,0 +1,2 @@
+# StarkBot
+starkHack - Eth Global
