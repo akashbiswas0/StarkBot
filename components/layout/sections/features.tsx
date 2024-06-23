@@ -13,19 +13,19 @@ const featureList: FeaturesProps[] = [
     icon: "TabletSmartphone",
     title: "Mobile Friendly",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio velit cum aliquam, consectetur.",
+      "we are using ArgentX wallet and telegram to onboard Mobile user.",
   },
   {
     icon: "BadgeCheck",
     title: "AI Suggestions",
     description:
-      "Lorem ipsum dolor sit amet consectetur. Natus consectetur, odio ea accusamus aperiam.",
+      "We have AI model to predict the next profitable trade.",
   },
   {
     icon: "Goal",
     title: "Telgram Bot",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. odio ea accusamus aperiam.",
+      "making onboarding process much easier by implementing the Bot feature.",
   },
 ];
 
@@ -37,13 +37,11 @@ export const FeaturesSection = () => {
       </h2>
 
       <h2 className="text-3xl md:text-4xl text-center font-bold mb-4">
-        What Makes Us Different
+        What Makes Us Different ?
       </h2>
 
       <h3 className="md:w-1/2 mx-auto text-xl text-center text-muted-foreground mb-8">
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem
-        fugiat, odit similique quasi sint reiciendis quidem iure veritatis optio
-        facere tenetur.
+      Entropy is a platform that provides AI-generated trade suggestions. Users can subscribe to AI models, run inferences for specific tokens, and receive cryptographic proof for verification.
       </h3>
 
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">

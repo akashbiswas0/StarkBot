@@ -13,25 +13,25 @@ const benefitList: BenefitsProps[] = [
     icon: "Blocks",
     title: "wallet integration",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio velit cum aliquam. Natus consectetur dolores.",
+      "we are creating User's wallet directly from the telegram using argent-X wallet functions.",
   },
   {
     icon: "LineChart",
     title: "More trades",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio velit cum aliquam, natus consectetur.",
+      "We have our model trained for predicting the next profitable trade to take in the starknet.",
   },
   {
     icon: "Wallet",
     title: "Green portfolio",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus consectetur. A odio velit cum aliquam",
+      "Our Ai model predict the right move for you and you can take action according to that prediction.",
   },
   {
     icon: "Sparkle",
     title: "Telegram Bot",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio velit cum aliquam. Natus consectetur dolores.",
+      "We have our one-stop telegram bot which you can use for sending and receinving tokens.",
   },
 ];
 
@@ -46,9 +46,7 @@ export const BenefitsSection = () => {
             Take this chance
           </h2>
           <p className="text-xl text-muted-foreground mb-8">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non
-            ducimus reprehenderit architecto rerum similique facere odit
-            deleniti necessitatibus quo quae.
+          Entropy is a platform that provides AI-generated trade suggestions. Users can subscribe to AI models, run inferences for specific tokens, and receive cryptographic proof for verification
           </p>
         </div>
 

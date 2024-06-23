@@ -127,7 +127,7 @@ export const Navbar = () => {
         <Button asChild size="sm" variant="ghost" aria-label="View on GitHub">
           <Link
             aria-label="View on GitHub"
-            href="#"
+            href="https://github.com/akashbiswas0/StarkBot"
             target="_blank"
           >
             <Github className="size-5" />
