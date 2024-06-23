@@ -8,7 +8,7 @@ import Link from "next/link";
 
 export const HeroSection = () => {
   const handleRedirect = () => {
-    window.location.href = "https://t.me/entropythebot";
+    window.location.href = "https://youtu.be/huwft1gdty4";
   };
   const { theme } = useTheme();
   return (
@@ -38,7 +38,7 @@ export const HeroSection = () => {
           <div className="space-y-4 md:space-y-0 md:space-x-4">
             <Button className="w-5/6 md:w-1/4 font-bold group/arrow"
                     onClick={handleRedirect}>
-              Get Started with Entropy Bot
+              Learn more about Entropy Bot
               <ArrowRight className="size-5 ml-2 group-hover/arrow:translate-x-1 transition-transform" />
             </Button>
 
