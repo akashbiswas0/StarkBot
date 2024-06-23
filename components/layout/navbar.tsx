@@ -38,11 +38,11 @@ const routeList: RouteProps[] = [
     label: "Trade",
   },
   {
-    href: "#",
+    href: "",
     label: "Live Price",
   },
   {
-    href: "#",
+    href: "",
     label: "AI",
   },
   
